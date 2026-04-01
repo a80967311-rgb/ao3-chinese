@@ -1,0 +1,191 @@
+版本号：1.0.0
+维护者：Alantiya
+更新时间：2026-04-01
+
+//注意：维护者有SC属性，请及时避雷
+
+//角色姓名（区分大小写）
+
+词条
+Sephiroth：萨菲罗斯
+Cloud Strife = 克劳德·斯特莱夫
+Aerith Gainsborough = 爱丽丝·盖恩斯巴勒
+Tifa Lockhart = 蒂法·洛克哈特
+Barret Wallace = 巴雷特·华莱士
+Red XIII：赤红十三
+Yuffie Kisaragi = 尤菲·如月
+Cait Sith = 凯特·西
+Reeve Tuesti = 里维·图伊斯蒂
+Vincent Valentine = 文森特·瓦伦丁
+Lucrecia Crescent = 露克蕾西亚·克里森特
+Cid Highwind：希德·海温德
+Zack Fair = 扎克斯·菲尔
+Genesis Rhapsodos = 杰内西斯·拉普索道斯
+Angeal Hewley = 安吉尔·修雷
+Rufus Shinra = 路法斯·神罗
+Tseng：曾
+Reno：雷诺
+Rude：路德
+Elena：伊莲娜
+Cissnei：西斯内
+Hojo：宝条
+Gast：加斯特
+Ifalna：伊法露娜
+Scarlet：史卡蕾特
+Palmer：帕默尔
+Heidegger：海德格
+Biggs：毕格斯
+Wedge：威吉
+Jessie Rasberry = 杰西·拉斯贝里
+Don Corneo：古留根尾
+Leslie Kyle = 雷兹利·凯尔
+Andrea Rhodea = 阿尼安·罗迪亚
+Kadaj：卡达裘
+Yazoo：亚祖
+Loz：罗兹
+Kunsel：康赛尔
+Lazard Deusericus = 拉扎德·德乌塞里库斯
+Roche：罗榭
+
+//角色昵称（不区分大小写）
+
+通用词条
+Gen：杰内
+Ange：安吉
+Geal：吉尔
+master：主人
+puppet：人偶
+Silver General：银发将军
+seph：萨菲
+Sephy：萨菲
+Spikey：钉子头
+
+//神罗部门及世界组织（区分大小写）
+
+词条
+Turk：塔克斯
+W.R.O：世界再生组织
+Avalanche：雪崩
+Deepground：深层禁地
+SOLDIER：特种兵
+
+//武器，载具及招式（区分大小写）
+
+词条
+Megaflare：百万火光
+Octaslash：八刀一闪
+Omnislash：超究武神霸斩
+Cross Slash：凶斩
+Fenrir：芬里尔
+Buggy：越野车
+Chocobo：陆行鸟
+Tiny Bronco：小野马
+Highwind：飞空艇
+Gelnika：格尔尼卡飞空艇
+Fusion Sword：组合剑
+Masamune：正宗
+First Tsurugi：六式
+Burst Sword：破坏剑
+Rapier：赤剑
+
+//魔石及其魔法（区分大小写）
+
+词条
+Restore：恢复
+Cure：疗伤
+Regen：渐愈
+Heal：治疗
+Poisona：解毒
+Esuna：复原
+Resist：免疫
+Revive：复活
+Life：复活
+Fire：烈焰
+Ice：寒气
+Blizzard：暴雪
+Aero：疾风
+Lightning：雷霆
+Bolt：雷电
+Poison：中毒
+Bio：毒化
+Comet：陨石
+Contain：封印
+
+
+//国家及地区地名（不区分大小写）
+
+通用词条
+Costa Del Sol：阳光海岸
+Cosmo Canyon：星陨峡谷
+Forgotten City：忘却之都
+Fort Condor：兀鹰堡垒
+Grasslands：格拉斯兰
+Mithril Mine：秘银矿山
+Gold Saucer：金碟
+Honey Bee：蜜蜂公馆
+Honey Inn：蜜蜂公馆
+Colosseum：竞技场
+Nibelheim：尼布尔海姆
+Nibel：尼布尔
+Modeoheim：莫迪欧海姆
+Corel：科雷陆
+North Corel：北科雷陆
+Gongaga：贡加加
+Banora：巴诺拉
+Plate：米德加圆盘
+Wall Market：围墙街
+Icicle Inn：冰雪村
+Mideel：温泉村
+Kalm：卡姆镇
+Rocket Town：火箭村
+Northern Cave：北大空洞
+Midgar：米德加
+Junon：朱诺
+Wutai：五台
+Shinra：神罗
+
+//专有名词（不区分大小写）
+
+通用词条
+Ether：以太
+Gaia：盖亚
+Planet：星球
+Lifestream：生命之流
+Mako：魔晄
+Mako Reactor：魔晄炉
+Materia：魔晶石
+Cetra：塞特拉
+Ancient：古代种
+Promised Land：应许之地
+Gi：义族
+Jenova：杰诺瓦
+Calamity：灾厄
+One Winged Angel：片翼天使
+Geostigma：星痕症
+Remnants：思念体
+Reunion：再结合
+Degradation：劣化
+President：总裁
+
+//敌人（区分大小写）
+
+通用词条
+Kalm fang：卡姆尖牙
+Blood Taste：嗜血猎犬
+Malboro：魔界花
+Zolom：米德加尔特巨蛇
+
+
+禁翻词条（区分大小写）
+Sefikura
+Loveless
+LOVELESS
+SGA
+Gil
+PHS
+Alpha
+alpha
+Beta
+beta
+Omega
+omega
