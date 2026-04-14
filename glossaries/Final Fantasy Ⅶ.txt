@@ -1,8 +1,8 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Alantiya
 更新时间：2026-04-01
 
-//注意：维护者有SC属性，请及时避雷
+//注意：该术语库有SC成分
 
 //角色姓名（区分大小写）
 
@@ -54,10 +54,10 @@ Roche：罗榭
 Gen：杰内
 Ange：安吉
 Geal：吉尔
-master：主人
-puppet：人偶
+Master：主人
+Puppet：人偶
 Silver General：银发将军
-seph：萨菲
+Seph：萨菲
 Sephy：萨菲
 Spikey：钉子头
 
@@ -168,6 +168,7 @@ Remnants：思念体
 Reunion：再结合
 Degradation：劣化
 President：总裁
+Silver Elite：银色精英
 
 //敌人（区分大小写）
 
@@ -178,7 +179,8 @@ Malboro：魔界花
 Zolom：米德加尔特巨蛇
 
 
-禁翻词条（区分大小写）
+禁翻词条
+
 Sefikura
 Loveless
 LOVELESS
