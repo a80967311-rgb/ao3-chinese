@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Alantiya
 更新时间：2026-04-01
 
@@ -15,7 +15,7 @@ Barret Wallace = 巴雷特·华莱士
 Red XIII：赤红十三
 Yuffie Kisaragi = 尤菲·如月
 Cait Sith = 凯特·西
-Reeve Tuesti = 里维·图伊斯蒂
+Reeve Tuesti = 里维·杜耶斯提
 Vincent Valentine = 文森特·瓦伦丁
 Lucrecia Crescent = 露克蕾西亚·克里森特
 Cid Highwind：希德·海温德
@@ -37,6 +37,7 @@ Heidegger：海德格
 Biggs：毕格斯
 Wedge：威吉
 Jessie Rasberry = 杰西·拉斯贝里
+Denzel：丹泽尔
 Don Corneo：古留根尾
 Leslie Kyle = 雷兹利·凯尔
 Andrea Rhodea = 阿尼安·罗迪亚
@@ -133,6 +134,7 @@ North Corel：北科雷陆
 Gongaga：贡加加
 Banora：巴诺拉
 Plate：米德加圆盘
+Edge：边缘城
 Wall Market：围墙街
 Icicle Inn：冰雪村
 Mideel：温泉村
