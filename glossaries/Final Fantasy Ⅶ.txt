@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Alantiya
-更新时间：2026-04-01
+更新时间：2026-10-28
 
 //注意：该术语库有SC成分
 
@@ -19,7 +19,7 @@ Reeve Tuesti = 里维·杜耶斯提
 Vincent Valentine = 文森特·瓦伦丁
 Lucrecia Crescent = 露克蕾西亚·克里森特
 Cid Highwind：希德·海温德
-Zack Fair = 扎克斯·菲尔
+Zack Fair：扎克斯·菲尔
 Genesis Rhapsodos = 杰内西斯·拉普索道斯
 Angeal Hewley = 安吉尔·修雷
 Rufus Shinra = 路法斯·神罗
@@ -27,6 +27,7 @@ Tseng：曾
 Reno：雷诺
 Rude：路德
 Elena：伊莲娜
+Cloudia:克劳迪娅
 Cissnei：西斯内
 Hojo：宝条
 Gast：加斯特
@@ -130,7 +131,6 @@ Corel：科雷陆
 North Corel：北科雷陆
 Gongaga：贡加加
 Banora：巴诺拉
-Plate：米德加圆盘
 Wall Market：围墙街
 Icicle Inn：冰雪村
 Mideel：温泉村
