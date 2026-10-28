@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Alantiya
 更新时间：2026-04-01
 
@@ -54,7 +54,6 @@ Roche：罗榭
 Gen：杰内
 Ange：安吉
 Geal：吉尔
-Master：主人
 Puppet：人偶
 Silver General：银发将军
 Seph：萨菲
@@ -100,9 +99,7 @@ Poisona：解毒
 Esuna：复原
 Resist：免疫
 Revive：复活
-Life：复活
 Fire：烈焰
-Ice：寒气
 Blizzard：暴雪
 Aero：疾风
 Lightning：雷霆
@@ -134,7 +131,6 @@ North Corel：北科雷陆
 Gongaga：贡加加
 Banora：巴诺拉
 Plate：米德加圆盘
-Edge：边缘城
 Wall Market：围墙街
 Icicle Inn：冰雪村
 Mideel：温泉村
@@ -167,7 +163,6 @@ Geostigma：星痕症
 Remnants：思念体
 Reunion：再结合
 Degradation：劣化
-President：总裁
 Silver Elite：银色精英
 
 //敌人（区分大小写）
@@ -184,7 +179,6 @@ Zolom：米德加尔特巨蛇
 Sefikura
 Loveless
 LOVELESS
-SGA
 Gil
 PHS
 Alpha
